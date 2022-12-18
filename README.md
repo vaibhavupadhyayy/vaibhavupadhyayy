@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img  align="left" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" alt="vaibhavupadhyayy"  /> 
+<img  align="left" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" height:100px width:100px alt="vaibhavupadhyayy"  /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavupadhyayy&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavupadhyayy" /> </p>
 
