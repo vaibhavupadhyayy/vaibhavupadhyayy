@@ -3,7 +3,7 @@
 
 <img  align="left" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height:85px width:70px alt="vaibhavupadhyayy"  /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavupadhyayy&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavupadhyayy" /> </p>
+<p align="left"> <img src="https://gifimage.net/wp-content/uploads/2018/11/computer-coding-gif-5.gif" alt="vaibhavupadhyayy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
