@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="150px" width="130px" alt="vaibhavupadhyayy" /> </p>
+<p align="left"> <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="300px" width="300px" alt="vaibhavupadhyayy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="" alt="" /></a> </p>
 
