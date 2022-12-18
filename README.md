@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="300px" width="300px" alt="vaibhavupadhyayy" /> </p>
+<p align="left"> <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="400px" width="600px" alt="vaibhavupadhyayy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="" alt="" /></a> </p>
-<p align="right">
+
 - 🌱 I’m currently learning **Node,React , React Native**
 
 - 💬 Ask me about **Mearn, Frontend, Backend**
@@ -12,7 +12,7 @@
 - How To Reac **vaibhavupadhyay306@gmail.com**
 
 - ⚡ Fun fact **I AM FUNNY**
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-upadhyay-03b1b1179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-upadhyay-03b1b1179/" height="30" width="40" /></a>
