@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node,React , React Native, Databases**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavupadhyayy.github.io/vaibhavupadhyay.in/](https://vaibhavupadhyayy.github.io/vaibhavupadhyay.in/)
+- 👨‍💻 All of my projects are available at [https://vaibhavupadhyayy.github.io/portfolio.in/](https://vaibhavupadhyayy.github.io/portfolio.in/)
 
 - 💬 Ask me about **Mearn, Frontend, Backend , Software Engineer**
 
