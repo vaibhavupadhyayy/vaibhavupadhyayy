@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="400px" width="100%" alt="vaibhavupadhyayy" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavupadhyayy&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavupadhyayy" /> </p>
