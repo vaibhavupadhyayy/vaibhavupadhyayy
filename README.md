@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Engineer at CRM Masters Infotech Gurugram/h3>
 <p align="left"> <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="400px" width="100%" alt="vaibhavupadhyayy" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavupadhyayy&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavupadhyayy" /> </p>
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node,React , React Native, Databases**
+- 🌱 I’m currently learning **Node.JS,React.JS, Next.Js React Native, Databases**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavupadhyayy.github.io/portfolio.in/](https://vaibhavupadhyayy.github.io/portfolio.in/)
+- 👨‍💻 All of my projects are available at [https://vaibhavupadhyayy.github.io/.in/](https://vaibhavupadhyayy.github.io/.in/)
 
 - 💬 Ask me about **Mearn, Frontend, Backend , Software Engineer**
 
 - How To Reac **vaibhavupadhyay306@gmail.com**
 
-- 📄 Know about my experiences [https://vaibhavupadhyayy.github.io/vaibhavupadhyay.in/](https://vaibhavupadhyayy.github.io/vaibhavupadhyay.in/)
+- 📄 Know about my experiences [https://vaibhavupadhyayy.github.io/.in/](https://vaibhavupadhyayy.github.io/.in/)
 
 - ⚡ Fun fact **I AM FUNNY**
 
