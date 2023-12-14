@@ -15,11 +15,10 @@
 
 - 💬 Ask me about **Mearn Stack, Frontend Development, Backend Development, Databases**
 
-- How To Reac **vaibhavupadhyay306@gmail.com**
+- How To Connect **vaibhavupadhyay306@gmail.com**
 
 - 📄 Know about my experiences [https://vaibhavupadhyayy.github.io/in/](https://vaibhavupadhyayy.github.io/in/)
 
-- ⚡ Fun fact **I AM FUNNY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
