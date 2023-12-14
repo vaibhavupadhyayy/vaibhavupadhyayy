@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Node.JS, React.JS, Next.Js, React Native, Databases**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavupadhyayy.github.io/.in/](https://vaibhavupadhyayy.github.io/.in/)
+- 👨‍💻 All of my projects are available at [https://vaibhavupadhyayy.github.io/in/](https://vaibhavupadhyayy.github.io/in/)
 
 - 💬 Ask me about **Mearn Stack, Frontend Development, Backend Development, Databases**
 
 - How To Reac **vaibhavupadhyay306@gmail.com**
 
-- 📄 Know about my experiences [https://vaibhavupadhyayy.github.io/.in/](https://vaibhavupadhyayy.github.io/.in/)
+- 📄 Know about my experiences [https://vaibhavupadhyayy.github.io/in/](https://vaibhavupadhyayy.github.io/in/)
 
 - ⚡ Fun fact **I AM FUNNY**
 
