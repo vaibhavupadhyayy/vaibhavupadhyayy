@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav upadhyay</h1>
 <h3 align="center">A Passionate Software Engineer at CRM Masters Infotech LLP from India</h3>
-<h3 align="center"><img style="height: 50px;" src="mainvaibhav.webp "></h3>
+<h3 align="center"><img style="height: 200px; border-radius: 50%;" src="mainvaibhav.webp "></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavupadhyayy&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavupadhyayy" /> </p>
 
