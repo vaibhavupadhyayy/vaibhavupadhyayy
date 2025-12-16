@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavupadhyayy" alt="vaibhavupadhyayy" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Software Development**
+- 🌱 I’m currently working as a **Software Developer**
 
 - 🤝 I’m looking for help with [Portfolio](https://vaibhavupadhyayy.github.io/in/)
 
